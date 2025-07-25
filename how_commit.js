@@ -2,6 +2,7 @@
 
 /*
     src: https://dev.to/ritikbanger/how-to-write-git-commit-messages-like-a-pro-dn
+    src: https://www.conventionalcommits.org/en/v1.0.0/
 
     the commit should follow this convention:
         <type>(<scope>): <message>
@@ -15,10 +16,6 @@
         style: for formatting changes, missing semicolons, etc.
         test: for adding missing tests, refactoring tests.
         build: for updating build configuration, development tools or other changes irrelevant to the user.
-
-        
-
 */
-
 
 
